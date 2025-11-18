@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aahaas Product API (Node.js)
 
 Simple REST API serving products for the Aahaas Ecommerce frontend, built with Node.js and Express.
@@ -111,3 +112,6 @@ curl http://127.0.0.1:8000/api/products
 - `npm run seed` - Seed the database with sample products
 
 
+=======
+# product-api-nodejs
+>>>>>>> b3452e5c8399d3d23b2d18aff7b130d63681ac1e
