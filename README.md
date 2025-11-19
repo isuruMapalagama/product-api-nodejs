@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# Aahaas Product API (Node.js)
+# Product API (Node.js)
 
-Simple REST API serving products for the Aahaas Ecommerce frontend, built with Node.js and Express.
+Simple REST API serving products for the Ecommerce frontend, built with Node.js and Express.
 
 ## Requirements
 - Node.js >= 16.0.0
